@@ -1,2 +1,2 @@
-# Solved-Programming-Problems:sweat_drops:
+# :sweat_drops: Solved-Programming-Problems
 Solutions of Programming Problems
